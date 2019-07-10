@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-06-26 08:10:12
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.8
+WORDPRESS:	4.8
+PHP INFO:	5.4.20 | SAPI: apache2handler
+SERVER:		Apache/2.4.6 (Linux/SUSE) 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 26.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:23 | filtered:0 | create:23 
+FILTERED: [] 
+SQL CREATED: 20170412_ultrafastonlineprocessing_92e85d12019e2bf91749170626081002_database.sql 
+SQL FILE SIZE: 5.4MB (5664244) 
+SQL FILE TIME: 2017-06-26 08:10:13 
+SQL RUNTIME: 0.53 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /srv/www/htdocs/dis 
+ARCHIVE FILE: 20170412_ultrafastonlineprocessing_92e85d12019e2bf91749170626081002_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	84.52MB 
+STATS:	Dirs 486 | Files 3,778 
+SQL ADDED: 20170412_ultrafastonlineprocessing_92e85d12019e2bf91749170626081002_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4264
+    [filename] => /srv/www/htdocs/dis/wp-snapshots/tmp/20170412_ultrafastonlineprocessing_92e85d12019e2bf91749170626081002_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 47.1MB 
+ARCHIVE RUNTIME: 12.63 sec. 
+MEMORY STACK: 28.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/srv/www/htdocs/dis/wp-snapshots/tmp/20170412_ultrafastonlineprocessing_92e85d12019e2bf91749170626081002_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 5.4MB 
+Installer File: 428.45KB 
+Archive File: 47.1MB  
+
+********************************************************************************
+RECORD ID:[5]
+TOTAL PROCESS RUNTIME: 13.40 sec.
+PEAK PHP MEMORY USED: 30.5MB
+DONE PROCESSING => 20170412_ultrafastonlineprocessing 2017-06-26 08:10:25
+ 
