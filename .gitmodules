@@ -1,0 +1,7 @@
+[submodule "the-bootstrap"]
+	path = wp-content/themes/the-bootstrap
+	url = https://github.com/obenland/the-bootstrap.git
+
+[submodule "the-bootstrap-kit"]
+	path = wp-content/themes/the-bootstrap-kit
+	url = https://fuzzy.fzk.de/gogs/kopmann/the-bootstrap-kit.git
