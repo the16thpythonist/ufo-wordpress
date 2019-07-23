@@ -2,6 +2,92 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8c6b4f9-bb03-470e-a4b0-81e736283a41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/archive.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/author.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/css/theme-options.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/img/content-sidebar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/img/glyphicons-halflings-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/img/glyphicons-halflings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/img/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/img/sidebar-content.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/img/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/img/wordpress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/inc/custom-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/inc/nav-menu-walker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/inc/template-tags.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/inc/tha-theme-hooks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/inc/the-bootstrap-gallery-widget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/inc/the-bootstrap-image-meta-widget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/inc/theme-customizer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/inc/theme-options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/js/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/js/respond.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/js/the-bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/js/the-bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/js/theme-customizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/da_DK.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/da_DK.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/hu_HU.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/hu_HU.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/hy_AM.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/hy_AM.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/ja_JA.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/ja_JA.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/nl_NL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/nl_NL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/pl_PL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/pl_PL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/pt_BR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/pt_BR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/ru_RU.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/ru_RU.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/lang/the-bootstrap.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/partials/content-aside.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/partials/content-chat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/partials/content-gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/partials/content-image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/partials/content-link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/partials/content-not-found.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/partials/content-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/partials/content-quote.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/partials/content-single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/partials/content-status.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/partials/content-video.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/partials/content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/searchform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/sidebar-image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/tag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/the-bootstrap/templates/_full_width.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,12 +188,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562743263198</updated>
       <workItem from="1562743264522" duration="1098000" />
-      <workItem from="1563885104863" duration="3625000" />
+      <workItem from="1563885104863" duration="3919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4723000" />
+    <option name="totallyTimeSpent" value="5017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="993" y="25" width="927" height="1055" extended-state="4" />
