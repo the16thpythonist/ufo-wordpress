@@ -4,4 +4,4 @@
 
 [submodule "the-bootstrap-kit"]
 	path = wp-content/themes/the-bootstrap-kit
-	url = https://fuzzy.fzk.de/gogs/kopmann/the-bootstrap-kit.git
+	url = https://github.com/the16thpythonist/the-bootstrap-kit.git
