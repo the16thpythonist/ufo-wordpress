@@ -19,22 +19,30 @@
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
-var_dump(getenv('WPDIS_DB_NAME'));
-define('DB_NAME', $_ENV['WPDIS_DB_NAME']);
-
-/** MySQL database username */
-define('DB_USER', $_ENV['WPDIS_DB_USER']);
-
-/** MySQL database password */
-define('DB_PASSWORD', $_ENV['WPDIS_DB_PASSWORD']);
-
-/** MySQL hostname */
-define('DB_HOST', $_ENV['WPDIS_DB_HOST']);
+/**
+ * 06.08.2019
+ * The config values are now based on environmental variables, as this file has to be uploaded to github and we dont
+ * want all the production credentials to be publicly visible on github...
+ * Also the issue with defining the config globals is solved a little bit more programmatically and less hard coded
+ */
+$CFG_VARS = [
+    // DATABASE SPECIFIC
+    'DB_NAME'       => 'WPDIS_DB_NAME',
+    'DB_USER'       => 'WPDIS_DB_USER',
+    'DB_PASSWORD'   => 'WPDIS_DB_PASSWORD',
+    'DB_HOST'       => 'WPDIS_DB_HOST',
+    // WORDPRESS SPECIFIC
+    'WP_DEBUG'      => 'WPDIS_WP_DEBUG',
+    'WP_HOME'       => 'WPDIS_WP_HOME',
+    'WP_SITEURL'    => 'WPDIS_WP_SITEURL',
+    // ENCRYPTION SPECIFIC
+];
+foreach($CFG_VARS as $config_name => $env_name ) {
+    define($config_name, getenv($env_name));
+}
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
-
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
 
@@ -78,7 +86,6 @@ $table_prefix  = 'wp_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
-define('WP_DEBUG', true);
 
 /* That's all, stop editing! Happy blogging. */
 
